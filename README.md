@@ -2,8 +2,8 @@
 
 <br>
 <div align="center">
-<img width="350em" src="https://github-readme-stats.vercel.app/api?username=fabricioferreira859&show_icons=true&theme=dark"/>&nbsp;&nbsp;&nbsp;
-<img width="350em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabricioferreira859&layout=compact&theme=dark"/>
+<img width="400em" src="https://github-readme-stats.vercel.app/api?username=fabricioferreira859&show_icons=true&theme=dark"/>
+<img width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabricioferreira859&layout=compact&theme=dark"/>
 </div>
 
 <div style="display: inline_block">
